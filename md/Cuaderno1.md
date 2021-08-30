@@ -10,7 +10,7 @@
 
 ![image.png](attachment:image.png)
 
-### En la siguiente ventana nos aparecera el tipo de instalación  seleccionamos Just Me . De lo contrario, necesitará acceso de administrador para realizar actualizaciones y acceder a algunos elementos desde la línea de comandos. Además, es una buena práctica de seguridad instalar solo localmente.
+### En la siguiente ventana nos aparecera el tipo de instalación  seleccionamos Just Me . De lo contrario, necesitará acceso de administrador para realizar actualizaciones y acceder a algunos elementos desde la línea de comandos. Además, es una buena práctica de seguridad instalar solo locaslmente.
 
 ![image.png](attachment:image.png)
 
